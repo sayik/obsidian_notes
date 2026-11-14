@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"86d43bbc4609f913","x":-87,"y":-80,"width":250,"height":50,"type":"text","text":"For Healthcare sector"},
+		{"id":"ae4cb7d1dfaa4780","x":-162,"y":40,"width":400,"height":400,"type":"link","url":"https://hl7.org/fhir/"}
+	],
+	"edges":[
+		{"id":"459d379feff5c967","fromNode":"ae4cb7d1dfaa4780","fromSide":"top","toNode":"86d43bbc4609f913","toSide":"bottom"}
+	]
+}

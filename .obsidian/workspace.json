@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "2d5590b98b27232c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f2eea517bccd54f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f8a959ddc79bf09",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Security-related/security_Resources.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 93,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "security_Resources"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07294b6db722671f",
+    "type": "split",
+    "children": [
+      {
+        "id": "071412ab789f98db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b6dc6862c83bc87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2db8364bb16526ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "108491f8ec5c0450",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9c16c4b8b74377d",
+    "type": "split",
+    "children": [
+      {
+        "id": "393f1fd5e3084093",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2e2a94a462e6ec3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clavis dev notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "389559732fc2507b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Security-related/security_Resources.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e84dc2bfc6968c0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7aad31f47986d195",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b74e1f951f3583e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Security-related/security_Resources.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2a1cb96f8ab1f768",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2a1cb96f8ab1f768",
+  "lastOpenFiles": [
+    "AWS/AWS_Resources.canvas",
+    "Security-related/security_Resources.canvas",
+    "Security-related",
+    "Glossary.pdf",
+    "Knowledge_canvas.canvas",
+    "AWS",
+    "Ga5Hz6BXwAErkUx.png",
+    "Clavis/Clavis dev notes backend.md",
+    "Clavis/Directory OF notes.md",
+    "Clavis/Frontend.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Clavis",
+    "cachingserver.canvas",
+    "Untitled 1.base",
+    "Leadgen.md",
+    "Untitled.base"
+  ]
+}

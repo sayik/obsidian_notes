@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"54dab474aa7daf0b","x":-260,"y":-200,"width":400,"height":400,"type":"file","file":"Glossary.pdf"},
+		{"id":"1dfae8e5755f6aff","x":247,"y":-40,"width":250,"height":60,"type":"text","text":"Glossary for IT terms and general AWS terms"}
+	],
+	"edges":[
+		{"id":"03fef6257f6c3166","fromNode":"54dab474aa7daf0b","fromSide":"right","toNode":"1dfae8e5755f6aff","toSide":"left"}
+	]
+}
