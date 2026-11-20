@@ -9,8 +9,9 @@
 		{"id":"badc65bb3c553ba2","type":"link","url":"https://builder.aws.com/build/workshops?tab=discover","x":1620,"y":-140,"width":400,"height":400},
 		{"id":"ae7ec159c7e5a867","type":"text","text":"Complete terraform book ","x":1546,"y":-335,"width":250,"height":60},
 		{"id":"c0401416e873fd74","type":"text","text":"And plan next steps","x":1984,"y":-335,"width":250,"height":60},
-		{"id":"28ce68cf47b4a532","x":1230,"y":-500,"width":250,"height":167,"type":"text","text":"AWS-TERRA Workshop\nhttps://catalog.workshops.aws/manage-cloud-resources-with-terraform/en-US?utm_source=chatgpt.com"},
-		{"id":"cfaabc1a9b346811","type":"text","text":"2. Deploy projects on aws using terraform and aws ","x":1546,"y":-500,"width":250,"height":60}
+		{"id":"28ce68cf47b4a532","type":"text","text":"AWS-TERRA Workshop\nhttps://catalog.workshops.aws/manage-cloud-resources-with-terraform/en-US?utm_source=chatgpt.com","x":1230,"y":-500,"width":250,"height":167},
+		{"id":"cfaabc1a9b346811","type":"text","text":"2. Deploy projects on aws using terraform and aws ","x":1546,"y":-500,"width":250,"height":60},
+		{"id":"a964dafc42531b17","x":2140,"y":141,"width":400,"height":400,"type":"link","url":"https://catalog.workshops.aws/manage-cloud-resources-with-terraform/en-US?utm_source=chatgpt.com"}
 	],
 	"edges":[
 		{"id":"fa0eed6676f1cacd","fromNode":"70f6ab0eb22c3e89","fromSide":"right","toNode":"8c75578ecd06166b","toSide":"left"},
@@ -21,6 +22,7 @@
 		{"id":"97fdf8726a9de5a3","fromNode":"4ae2722dc3ff2ff2","fromSide":"right","toNode":"ae7ec159c7e5a867","toSide":"left"},
 		{"id":"66c9e6bac0eb4e2c","fromNode":"ae7ec159c7e5a867","fromSide":"right","toNode":"c0401416e873fd74","toSide":"left"},
 		{"id":"fa09a9f717d7f928","fromNode":"4ae2722dc3ff2ff2","fromSide":"right","toNode":"28ce68cf47b4a532","toSide":"left"},
-		{"id":"68dbdee44bbf64a1","fromNode":"28ce68cf47b4a532","fromSide":"right","toNode":"cfaabc1a9b346811","toSide":"left"}
+		{"id":"68dbdee44bbf64a1","fromNode":"28ce68cf47b4a532","fromSide":"right","toNode":"cfaabc1a9b346811","toSide":"left"},
+		{"id":"bb6924fb8d7359a8","fromNode":"a964dafc42531b17","fromSide":"left","toNode":"8c75578ecd06166b","toSide":"right"}
 	]
 }
