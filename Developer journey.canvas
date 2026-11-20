@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"e77e53377c852074","x":-98,"y":-40,"width":250,"height":60,"type":"text","text":"Devops/CI-CD"},
+		{"id":"5549987e40066a57","x":-371,"y":-45,"width":250,"height":60,"type":"text","text":"Language expertise"},
+		{"id":"57306a0c6fb52bc3","x":177,"y":-36,"width":250,"height":60,"type":"text","text":"Web technologies"},
+		{"id":"f164d9187c524c3e","x":475,"y":-34,"width":250,"height":60,"type":"text","text":"Architecture"},
+		{"id":"ca5a20510597195c","x":80,"y":-240,"width":250,"height":60,"type":"text","text":"Dev"},
+		{"id":"dbe3a6c634b39d40","x":-380,"y":115,"width":250,"height":185,"type":"text","text":"- Python Stand-lib\n- Exercism\n- Core algo\n- Cutom projects\n- Code review"},
+		{"id":"ec9b1b7c06ffc4b0","x":-96,"y":120,"width":250,"height":180,"type":"text","text":"- Coursera course - AWS\n- Terraform deployments\n- AWS services\n- Github Actions\n- Git\n- Docker\n- COntainer repo\n- CD with github-terraform-aws"},
+		{"id":"ed771e589f980615","x":178,"y":114,"width":250,"height":186,"type":"text","text":"- FastAPI\n- Django\n- Redis\n- Logging\n- Monitoring\n- Testing"},
+		{"id":"32796d2f1e9e2194","x":475,"y":121,"width":250,"height":179,"type":"text","text":"- SQL, no-sql\n- FIFO\n- Cache stratergy\n- Middleware\n- "}
+	],
+	"edges":[
+		{"id":"35b244d39014b50a","fromNode":"ca5a20510597195c","fromSide":"bottom","toNode":"e77e53377c852074","toSide":"top"},
+		{"id":"ed9046781e098b29","fromNode":"ca5a20510597195c","fromSide":"bottom","toNode":"5549987e40066a57","toSide":"top"},
+		{"id":"183a06f1ccdb4b50","fromNode":"ca5a20510597195c","fromSide":"bottom","toNode":"57306a0c6fb52bc3","toSide":"top"},
+		{"id":"063a578c9dcba242","fromNode":"ca5a20510597195c","fromSide":"bottom","toNode":"f164d9187c524c3e","toSide":"top"},
+		{"id":"1d8af9c26d330d34","fromNode":"5549987e40066a57","fromSide":"bottom","toNode":"dbe3a6c634b39d40","toSide":"top"},
+		{"id":"f7a973df0df44e6e","fromNode":"e77e53377c852074","fromSide":"bottom","toNode":"ec9b1b7c06ffc4b0","toSide":"top"},
+		{"id":"edbc25ec668f95c7","fromNode":"57306a0c6fb52bc3","fromSide":"bottom","toNode":"ed771e589f980615","toSide":"top"},
+		{"id":"f96541a04844c5d7","fromNode":"f164d9187c524c3e","fromSide":"bottom","toNode":"32796d2f1e9e2194","toSide":"top"}
+	]
+}

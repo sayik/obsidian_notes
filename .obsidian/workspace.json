@@ -42,14 +42,17 @@
             "id": "01431fa4a5e5c56c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Clavis/ToDo.md",
-                "mode": "source",
-                "source": false
+                "file": "Developer journey.canvas",
+                "viewState": {
+                  "x": 177,
+                  "y": -14,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "ToDo"
+              "icon": "lucide-layout-dashboard",
+              "title": "Developer journey"
             }
           }
         ],
@@ -115,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b9c16c4b8b74377d",
@@ -234,8 +238,9 @@
   },
   "active": "01431fa4a5e5c56c",
   "lastOpenFiles": [
-    "Leadgen.md",
     "Clavis/ToDo.md",
+    "Developer journey.canvas",
+    "Leadgen.md",
     "AWS-Dev-ops/Materials.canvas",
     "AWS-Dev-ops/Glossary.pdf",
     "AWS-Dev-ops/TODO.md",
