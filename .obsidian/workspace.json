@@ -11,20 +11,35 @@
             "id": "9f8a959ddc79bf09",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leadgen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leadgen"
+            }
+          },
+          {
+            "id": "6556f9a7ae96d63c",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
-                "file": "Security-related/security_Resources.canvas",
+                "file": "AWS-Dev-ops/AWS_Resources.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 93,
+                  "x": 118.5,
+                  "y": 0,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "security_Resources"
+              "title": "AWS_Resources"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,24 +218,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a1cb96f8ab1f768",
+  "active": "6556f9a7ae96d63c",
   "lastOpenFiles": [
-    "AWS/AWS_Resources.canvas",
-    "Security-related/security_Resources.canvas",
-    "Security-related",
-    "Glossary.pdf",
+    "AWS-Dev-ops/Materials.canvas",
+    "AWS-Dev-ops/Glossary.pdf",
+    "AWS-Dev-ops/TODO.md",
+    "AWS-Dev-ops/AWS_Resources.canvas",
+    "AWS-Dev-ops/localstack.md",
+    "AWS-Dev-ops/Terraform where at.md",
+    "Yevgeniy Brikman - Terraform_ Up and Running_ Writing Infrastructure as Code-O'Reilly Media (2022) (1).pdf",
+    "Untitled.md",
+    "Leadgen.md",
     "Knowledge_canvas.canvas",
-    "AWS",
-    "Ga5Hz6BXwAErkUx.png",
     "Clavis/Clavis dev notes backend.md",
+    "Ga5Hz6BXwAErkUx.png",
+    "Security-related/security_Resources.canvas",
+    "Excalidraw/Drawing 2026-11-14 13.25.22.excalidraw.md",
+    "Excalidraw",
+    "Security-related",
+    "AWS-Dev-ops",
     "Clavis/Directory OF notes.md",
     "Clavis/Frontend.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Clavis",
     "cachingserver.canvas",
     "Untitled 1.base",
-    "Leadgen.md",
     "Untitled.base"
   ]
 }
