@@ -2,14 +2,15 @@
 	"nodes":[
 		{"id":"8c75578ecd06166b","type":"file","file":"AWS-Dev-ops/TODO.md","x":1080,"y":143,"width":400,"height":400},
 		{"id":"70f6ab0eb22c3e89","type":"file","file":"Yevgeniy Brikman - Terraform_ Up and Running_ Writing Infrastructure as Code-O'Reilly Media (2022) (1).pdf","x":566,"y":141,"width":400,"height":400},
-		{"id":"882698cf1f97cff5","x":1620,"y":380,"width":400,"height":400,"type":"link","url":"https://developer.hashicorp.com/terraform/sandbox?utm_source=chatgpt.com"},
-		{"id":"84ef864498df055d","x":593,"y":-331,"width":250,"height":60,"type":"text","text":"Create new aws account"},
-		{"id":"4ae2722dc3ff2ff2","x":904,"y":-330,"width":250,"height":60,"type":"text","text":"Follow coursera tutorial and finish the real world build"},
-		{"id":"43fb8b1afbf8f06d","x":1230,"y":-270,"width":250,"height":60,"type":"text","text":"1. Finish coursera courses"},
-		{"id":"cfaabc1a9b346811","x":1230,"y":-393,"width":250,"height":60,"type":"text","text":"2. Deploy projects on aws using terraform and aws "},
-		{"id":"badc65bb3c553ba2","x":1620,"y":-140,"width":400,"height":400,"type":"link","url":"https://builder.aws.com/build/workshops?tab=discover"},
-		{"id":"ae7ec159c7e5a867","x":1546,"y":-335,"width":250,"height":60,"type":"text","text":"Complete terraform book "},
-		{"id":"c0401416e873fd74","x":1984,"y":-335,"width":250,"height":60,"type":"text","text":"And plan next steps"}
+		{"id":"882698cf1f97cff5","type":"link","url":"https://developer.hashicorp.com/terraform/sandbox?utm_source=chatgpt.com","x":1620,"y":380,"width":400,"height":400},
+		{"id":"84ef864498df055d","type":"text","text":"Create new aws account","x":593,"y":-331,"width":250,"height":60},
+		{"id":"4ae2722dc3ff2ff2","type":"text","text":"Follow coursera tutorial and finish the real world build","x":904,"y":-330,"width":250,"height":60},
+		{"id":"43fb8b1afbf8f06d","type":"text","text":"1. Finish coursera courses","x":1230,"y":-270,"width":250,"height":60},
+		{"id":"badc65bb3c553ba2","type":"link","url":"https://builder.aws.com/build/workshops?tab=discover","x":1620,"y":-140,"width":400,"height":400},
+		{"id":"ae7ec159c7e5a867","type":"text","text":"Complete terraform book ","x":1546,"y":-335,"width":250,"height":60},
+		{"id":"c0401416e873fd74","type":"text","text":"And plan next steps","x":1984,"y":-335,"width":250,"height":60},
+		{"id":"28ce68cf47b4a532","x":1230,"y":-500,"width":250,"height":167,"type":"text","text":"AWS-TERRA Workshop\nhttps://catalog.workshops.aws/manage-cloud-resources-with-terraform/en-US?utm_source=chatgpt.com"},
+		{"id":"cfaabc1a9b346811","type":"text","text":"2. Deploy projects on aws using terraform and aws ","x":1546,"y":-500,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"fa0eed6676f1cacd","fromNode":"70f6ab0eb22c3e89","fromSide":"right","toNode":"8c75578ecd06166b","toSide":"left"},
@@ -17,8 +18,9 @@
 		{"id":"10d146126d61c25a","fromNode":"882698cf1f97cff5","fromSide":"left","toNode":"8c75578ecd06166b","toSide":"right"},
 		{"id":"c244233813dacce4","fromNode":"84ef864498df055d","fromSide":"right","toNode":"4ae2722dc3ff2ff2","toSide":"left"},
 		{"id":"ddc656ddba9ef363","fromNode":"4ae2722dc3ff2ff2","fromSide":"right","toNode":"43fb8b1afbf8f06d","toSide":"left"},
-		{"id":"fa28867329f9d832","fromNode":"4ae2722dc3ff2ff2","fromSide":"right","toNode":"cfaabc1a9b346811","toSide":"left"},
 		{"id":"97fdf8726a9de5a3","fromNode":"4ae2722dc3ff2ff2","fromSide":"right","toNode":"ae7ec159c7e5a867","toSide":"left"},
-		{"id":"66c9e6bac0eb4e2c","fromNode":"ae7ec159c7e5a867","fromSide":"right","toNode":"c0401416e873fd74","toSide":"left"}
+		{"id":"66c9e6bac0eb4e2c","fromNode":"ae7ec159c7e5a867","fromSide":"right","toNode":"c0401416e873fd74","toSide":"left"},
+		{"id":"fa09a9f717d7f928","fromNode":"4ae2722dc3ff2ff2","fromSide":"right","toNode":"28ce68cf47b4a532","toSide":"left"},
+		{"id":"68dbdee44bbf64a1","fromNode":"28ce68cf47b4a532","fromSide":"right","toNode":"cfaabc1a9b346811","toSide":"left"}
 	]
 }

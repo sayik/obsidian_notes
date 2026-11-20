@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "AWS-Dev-ops/AWS_Resources.canvas",
+                "file": "AWS-Dev-ops/Materials.canvas",
                 "viewState": {
-                  "x": 118.5,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 1400,
+                  "y": 51.571365628989874,
+                  "zoom": -0.43564536577293206
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "AWS_Resources"
+              "title": "Materials"
             }
           }
         ],
@@ -220,10 +220,10 @@
   },
   "active": "6556f9a7ae96d63c",
   "lastOpenFiles": [
-    "AWS-Dev-ops/Materials.canvas",
     "AWS-Dev-ops/Glossary.pdf",
     "AWS-Dev-ops/TODO.md",
     "AWS-Dev-ops/AWS_Resources.canvas",
+    "AWS-Dev-ops/Materials.canvas",
     "AWS-Dev-ops/localstack.md",
     "AWS-Dev-ops/Terraform where at.md",
     "Yevgeniy Brikman - Terraform_ Up and Running_ Writing Infrastructure as Code-O'Reilly Media (2022) (1).pdf",
