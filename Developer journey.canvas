@@ -8,7 +8,7 @@
 		{"id":"dbe3a6c634b39d40","x":-380,"y":115,"width":250,"height":185,"type":"text","text":"- Python Stand-lib\n- Exercism\n- Core algo\n- Cutom projects\n- Code review"},
 		{"id":"ec9b1b7c06ffc4b0","x":-96,"y":120,"width":250,"height":180,"type":"text","text":"- Coursera course - AWS\n- Terraform deployments\n- AWS services\n- Github Actions\n- Git\n- Docker\n- COntainer repo\n- CD with github-terraform-aws"},
 		{"id":"ed771e589f980615","x":178,"y":114,"width":250,"height":186,"type":"text","text":"- FastAPI\n- Django\n- Redis\n- Logging\n- Monitoring\n- Testing"},
-		{"id":"32796d2f1e9e2194","x":475,"y":121,"width":250,"height":179,"type":"text","text":"- SQL, no-sql\n- FIFO\n- Cache stratergy\n- Middleware\n- MCP\n- RestAPI\n- GraphQL"}
+		{"id":"32796d2f1e9e2194","x":475,"y":121,"width":250,"height":179,"type":"text","text":"- SQL, no-sql\n- FIFO\n- Cache stratergy\n- Middleware\n- MCP\n- RestAPI\n- GraphQL\n- Websocket"}
 	],
 	"edges":[
 		{"id":"35b244d39014b50a","fromNode":"ca5a20510597195c","fromSide":"bottom","toNode":"e77e53377c852074","toSide":"top"},
