@@ -1,8 +1,9 @@
-- Setup redis container ☑
-- Connected redis contrainer through fastapi-redis libvrary 
-added env REDIS_URL ☑
-- Added redis endpoint to see health check ☑
-- Added websocket_token file to handle and save token
+
+- Added websocket_token creator to endpoint router handler 
+- passed user_id to it, confused about redis connection invocation though. 
+- now need to test it end to end with redis testcontainers, replacing env variable is important. 
+- Next to do it consume the token. 
+- Also File needs to be directly connected with user_id
 # Make websocket work
 next step
 - redis integrated ✔️
