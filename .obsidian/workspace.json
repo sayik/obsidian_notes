@@ -42,21 +42,32 @@
             "id": "01431fa4a5e5c56c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Developer journey.canvas",
-                "viewState": {
-                  "x": 177,
-                  "y": 79,
-                  "zoom": 0
-                }
+                "file": "Clavis/Directory OF notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Developer journey"
+              "icon": "lucide-file",
+              "title": "Directory OF notes"
+            }
+          },
+          {
+            "id": "7fb9b39aac980140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clavis/Current_situation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Current_situation"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,11 +247,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01431fa4a5e5c56c",
+  "active": "7fb9b39aac980140",
   "lastOpenFiles": [
-    "Clavis/ToDo.md",
-    "Developer journey.canvas",
     "Leadgen.md",
+    "Clavis/Current_situation.md",
+    "Untitled.md",
+    "Clavis/Directory OF notes.md",
+    "Dev-learning-fastapi.md",
+    "Developer journey.canvas",
+    "Clavis/ToDo.md",
     "AWS-Dev-ops/Materials.canvas",
     "AWS-Dev-ops/Glossary.pdf",
     "AWS-Dev-ops/TODO.md",
@@ -256,7 +271,6 @@
     "Excalidraw",
     "Security-related",
     "AWS-Dev-ops",
-    "Clavis/Directory OF notes.md",
     "Clavis/Frontend.md",
     "Untitled 1.md",
     "Clavis",

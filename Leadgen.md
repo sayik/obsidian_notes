@@ -6,6 +6,10 @@ Status
 
 
 -  Write tests
-- Expand DB
+- have 
+- have models set up
 - Add telemetry
 - Deploy on aws
+- let aws handle db with dynamodb, deal user management with api gateway. 
+- deploy asap
+- 
