@@ -16,3 +16,8 @@ next step
 - test test test
 
 
+
+Testing 
+version tracking - clean up
+logging 
+monitoring
