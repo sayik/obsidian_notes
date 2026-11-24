@@ -10,6 +10,9 @@ docker compose run --rm app uv run alembic revision --autogenerate -m "initial s
 docker compose run --rm app uv run alembic upgrade head
 docker compose up -d app
 
+Currently stuck at making the signup work, issue was with temp_token now I don't know what the issue is. 
+
+
 - Added websocket_token creator to endpoint router handler 
 - passed user_id to it, confused about redis connection invocation though. 
 - now need to test it end to end with redis testcontainers, replacing env variable is important. 
