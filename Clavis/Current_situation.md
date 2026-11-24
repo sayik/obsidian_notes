@@ -10,7 +10,8 @@ docker compose run --rm app uv run alembic revision --autogenerate -m "initial s
 docker compose run --rm app uv run alembic upgrade head
 docker compose up -d app
 
-Currently stuck at making the signup work, issue was with temp_token now I don't know what the issue is. 
+**Currently stuck at making the signup work, issue was with temp_token now I don't know what the issue is.**
+# OK this is issue - verification = generate_email_verification_link(settings.FRONTEND_URL) 
 
 
 - Added websocket_token creator to endpoint router handler 
