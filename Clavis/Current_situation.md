@@ -3,6 +3,7 @@ docker compose down -v
 volumes:
   - ./alembic:/app/alembic
   - ./alembic.ini:/app/alembic.ini
+docker compose up -d db redis
 
 - Added websocket_token creator to endpoint router handler 
 - passed user_id to it, confused about redis connection invocation though. 
