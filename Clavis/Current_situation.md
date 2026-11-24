@@ -4,6 +4,7 @@ volumes:
   - ./alembic:/app/alembic
   - ./alembic.ini:/app/alembic.ini
 docker compose up -d db redis
+docker compose run --rm app uv run alembic revision --autogenerate -m "initial schema"
 
 - Added websocket_token creator to endpoint router handler 
 - passed user_id to it, confused about redis connection invocation though. 
