@@ -1,4 +1,6 @@
 docker compose down
+docker compose down -v
+
 
 - Added websocket_token creator to endpoint router handler 
 - passed user_id to it, confused about redis connection invocation though. 
