@@ -9,6 +9,7 @@
 	2. Make creation of token work
 	3. Make sending of token work
 	4. Make script at frontend that receives token 
+	5. Make the token be sent with WS chat initiation
 	
 
 
