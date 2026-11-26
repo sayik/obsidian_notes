@@ -56,14 +56,17 @@
             "id": "7fb9b39aac980140",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Clavis/Current_situation.md",
-                "mode": "source",
-                "source": false
+                "file": "Clavis/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Current_situation"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -248,22 +251,25 @@
   },
   "active": "7fb9b39aac980140",
   "lastOpenFiles": [
-    "Clavis/Clavis dev notes backend.md",
-    "Clavis/Current_situation.md",
     "Clavis/ToDo.md",
+    "Clavis/Untitled.canvas",
+    "Clavis/Current_situation.md",
+    "AWS-Dev-ops/Materials.canvas",
+    "AWS-Dev-ops/Yevgeniy Brikman - Terraform_ Up and Running_ Writing Infrastructure as Code-O'Reilly Media (2022) (1).pdf",
+    "Developer journey.canvas",
+    "Clavis/Directory OF notes.md",
     "Clavis/Untitled.md",
+    "Clavis/Frontend.md",
+    "Clavis dev notes backend.md",
+    "Clavis/Clavis dev notes backend.md",
     "Leadgen.md",
     "Untitled.md",
-    "Clavis/Directory OF notes.md",
     "Dev-learning-fastapi.md",
-    "Developer journey.canvas",
-    "AWS-Dev-ops/Materials.canvas",
     "AWS-Dev-ops/Glossary.pdf",
     "AWS-Dev-ops/TODO.md",
     "AWS-Dev-ops/AWS_Resources.canvas",
     "AWS-Dev-ops/localstack.md",
     "AWS-Dev-ops/Terraform where at.md",
-    "Yevgeniy Brikman - Terraform_ Up and Running_ Writing Infrastructure as Code-O'Reilly Media (2022) (1).pdf",
     "Knowledge_canvas.canvas",
     "Ga5Hz6BXwAErkUx.png",
     "Security-related/security_Resources.canvas",
@@ -271,7 +277,6 @@
     "Excalidraw",
     "Security-related",
     "AWS-Dev-ops",
-    "Clavis/Frontend.md",
     "Untitled 1.md",
     "Clavis",
     "cachingserver.canvas",

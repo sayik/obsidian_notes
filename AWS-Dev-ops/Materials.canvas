@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"8c75578ecd06166b","type":"file","file":"AWS-Dev-ops/TODO.md","x":1080,"y":143,"width":400,"height":400},
-		{"id":"70f6ab0eb22c3e89","type":"file","file":"Yevgeniy Brikman - Terraform_ Up and Running_ Writing Infrastructure as Code-O'Reilly Media (2022) (1).pdf","x":566,"y":141,"width":400,"height":400},
+		{"id":"70f6ab0eb22c3e89","type":"file","file":"AWS-Dev-ops/Yevgeniy Brikman - Terraform_ Up and Running_ Writing Infrastructure as Code-O'Reilly Media (2022) (1).pdf","x":566,"y":141,"width":400,"height":400},
 		{"id":"882698cf1f97cff5","type":"link","url":"https://developer.hashicorp.com/terraform/sandbox?utm_source=chatgpt.com","x":1620,"y":380,"width":400,"height":400},
 		{"id":"84ef864498df055d","type":"text","text":"Create new aws account","x":593,"y":-331,"width":250,"height":60},
 		{"id":"4ae2722dc3ff2ff2","type":"text","text":"Follow coursera tutorial and finish the real world build","x":904,"y":-330,"width":250,"height":60},

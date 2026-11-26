@@ -1,3 +1,5 @@
+
+Todo - [[Clavis/ToDo|ToDo]]
 ### 26/11/2026
 - So I have get the register going, email verification is broken
 - **login** is broken
@@ -39,7 +41,4 @@ next step
 
 
 
-# Testing 
-# version tracking - clean up
-# logging 
-# monitoring
+
