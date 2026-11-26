@@ -5,7 +5,7 @@
 - We will need to write tests for the WS chat 
 - Auth tests coming next. 
 	####  **Todays goal**
-	1. Temporarily remove user verification
+	1. Temporarily remove user verification for collecting WebSocket token
 	2. 
 
 
