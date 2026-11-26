@@ -12,7 +12,7 @@
 	5. Make the token be sent with WS chat initiation
 	6. Make consumption of the token work
 	7. Write tests for the whole lifecycle
-	8. 
+	8. Make those test adaptable when login is integrated with dummy user and token
 
 
 ###  25/11/2026 
@@ -39,7 +39,7 @@ next step
 
 
 
-Testing 
-version tracking - clean up
-logging 
-monitoring
+# Testing 
+# version tracking - clean up
+# logging 
+# monitoring
