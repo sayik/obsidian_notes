@@ -6,7 +6,9 @@
 - Auth tests coming next. 
 	####  **Todays goal**
 	1. Temporarily remove user verification for collecting WebSocket token
-	2. 
+	2. Make creation of token work
+	3. Make sending of token work
+	
 
 
 ###  25/11/2026 
