@@ -129,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b9c16c4b8b74377d",
@@ -249,13 +248,15 @@
   },
   "active": "7fb9b39aac980140",
   "lastOpenFiles": [
-    "Leadgen.md",
+    "Clavis/Clavis dev notes backend.md",
     "Clavis/Current_situation.md",
+    "Clavis/ToDo.md",
+    "Clavis/Untitled.md",
+    "Leadgen.md",
     "Untitled.md",
     "Clavis/Directory OF notes.md",
     "Dev-learning-fastapi.md",
     "Developer journey.canvas",
-    "Clavis/ToDo.md",
     "AWS-Dev-ops/Materials.canvas",
     "AWS-Dev-ops/Glossary.pdf",
     "AWS-Dev-ops/TODO.md",
@@ -264,7 +265,6 @@
     "AWS-Dev-ops/Terraform where at.md",
     "Yevgeniy Brikman - Terraform_ Up and Running_ Writing Infrastructure as Code-O'Reilly Media (2022) (1).pdf",
     "Knowledge_canvas.canvas",
-    "Clavis/Clavis dev notes backend.md",
     "Ga5Hz6BXwAErkUx.png",
     "Security-related/security_Resources.canvas",
     "Excalidraw/Drawing 2026-11-14 13.25.22.excalidraw.md",

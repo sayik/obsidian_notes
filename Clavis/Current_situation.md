@@ -1,15 +1,15 @@
-docker compose down
-docker compose down -v
-volumes:
-  - ./alembic:/app/alembic
-  - ./alembic.ini:/app/alembic.ini
-  
-docker compose up -d db redis
-docker compose run --rm app uv run alembic revision --autogenerate -m "initial schema"
+### 26/11/2026
+- So I have get the register going, email verification is broken
+- **login** is broken
+- So I have decided to go ahead and fix WebSocket chat by removing user verification and sending the frontend token to start WebSocket to finish the feature.
+- We will need to write tests for the WS chat 
+- Auth tests coming next. 
+	####  **Todays goal**
+	1. Temporarily remove user verification
+	2. 
 
-docker compose run --rm app uv run alembic upgrade head
-docker compose up -d app
 
+###  25/11/2026 
 **Currently stuck at making the signup work, issue was with temp_token now I don't know what the issue is.**
 # OK this is issue - verification = generate_email_verification_link(settings.FRONTEND_URL) 
 
